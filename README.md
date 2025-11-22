@@ -1,17 +1,11 @@
-# Arduino Sensors - Modules
+# TEST DEVICES
 
-Guide how to use common sensors - modules with arduino
+## About this project
 
-## Contact
+Thư mục chứa các chương trình kiểm thử dành riêng cho từng loại thiết bị và bộ điều khiển khác nhau
 
-Name: Hoan Tran
+## ContactUs
 
-Cell: +84 978 39 41 43
-
-Email: daibangcam@gmail.com
-
-Website: http://hano.cf/
-
-## Demo
-
-Follow Me [Youtube](https://www.youtube.com/c/hano_tran)
+- [HanO](http://github.com/daibangcam)
+- [Mai Hải](https://www.facebook.com/profile.php?id=100025839706798)
+- [Nhật Quang](https://www.facebook.com/profile.php?id=100040383496184)
