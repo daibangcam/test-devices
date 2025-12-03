@@ -5,7 +5,7 @@ const int StepY = 3;
 const int DirY = 6;
 const int StepZ = 4;
 const int DirZ = 7;
-const int num_steps = 3200;
+const int num_steps = 400;
 const int en = 8;
 
 // mode = 1: x
@@ -13,7 +13,7 @@ const int en = 8;
 // mode = 3: z
 // mode = 4: d
 // mode = 0: xyz
-const int mode = 2;
+const int mode = 4;
 
 void setup() 
 {
